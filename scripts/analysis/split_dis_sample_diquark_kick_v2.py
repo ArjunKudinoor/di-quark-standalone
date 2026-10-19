@@ -23,7 +23,7 @@ diquark pz sum.
 
 **Kick (v2):** magnitude ``delta_px * sin(theta)`` with ``theta ~ Uniform[0, pi]``,
 applied along Breit x (same direction as v1; magnitude-only change). θ is drawn from
-``Random((seed_for_kick, event_id))`` per event so the same ``--seed`` and ``event_id``
+``Random(f"{seed_for_kick}:{event_id}")`` per event so the same ``--seed`` and ``event_id``
 yield the same kick in serial and parallel runs.
 
 We want event-by-event comparisons between kicked and unkicked events after PYTHIA
@@ -359,7 +359,7 @@ def process_one_event_split(
     """
     Core 90/10 alteration physics (same as the CSV driver's per-event loop).
 
-    Kick θ (v2): ``Random((seed_for_kick, event_id))`` — deterministic in serial and parallel.
+    Kick θ (v2): ``Random(f"{seed_for_kick}:{event_id}")`` — deterministic in serial and parallel.
 
     Returns:
         particles_out — sorted by ``particle_index``, ready to persist.
@@ -493,7 +493,7 @@ def process_one_event_split(
     )
 
     # Per-event seeded RNG: deterministic across serial and parallel runs.
-    event_rng = random.Random((int(seed_for_kick), int(event_id)))
+    event_rng = random.Random(f"{int(seed_for_kick)}:{int(event_id)}")
     theta_rad = event_rng.uniform(0.0, math.pi)
     kick_magnitude = float(delta_px) * math.sin(theta_rad)
     try:
