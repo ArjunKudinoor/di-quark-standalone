@@ -1,0 +1,20 @@
+{
+  "source_parent": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000/merged",
+  "accepted_events": 9600000,
+  "reuse_A1_A2": false,
+  "reuse_A3": false,
+  "workers": 4,
+  "generation_seed": 12345,
+  "surgery_seed": 42,
+  "pooled_balance_seed": 42,
+  "source_sha256": {
+    "run_fig3_pi0.sh": "89ebc4be86892f341e85bacc4ede931861a28611f6e82a60d05c52c14d828c34",
+    "run_fig3.sh": "027be551f1e0f0090b357272163ee83d62409ef517e4bd33210ac37a4e253d6e",
+    "scripts/analysis/plot_jet_hadron_pi_pm_pi0_observables.py": "e3edc7024fce0eb2715da991ba57e193d7f3088bff6dfdb3281a49041072af39",
+    "scripts/analysis/validate_fig3_pi0_inputs.py": "7441064124a8c5453be61a34b1c8100aea7930376608ca2bb97cf93ad79d427a",
+    "scripts/analysis/jet_hadron_pi_pm_pi0_figures.py": "6def8c3d3c66d4c1074be51b674df7e7ba2f4988fea4e1951fa720899ec72134",
+    "scripts/analysis/jet_hadron_observables_split_pi_pm_pi0.py": "5cec3a06796e0372213824cd78b4610d2cc6c26f29a190bcc75c29250ae4106b",
+    "scripts/analysis/jet_hadron_observables_altered_parquet_filtered_pi0.py": "75354d8296b0c65fb6330f87af31ac8b6da1ac564af51164e5cffc767f61a176",
+    "scripts/analysis/validate_fig3_pi0.py": "0e7ce171ff73b9936f2ebe41cd59d1eb8c3d3bee777cefc72eef33ecb84332c7"
+  }
+}

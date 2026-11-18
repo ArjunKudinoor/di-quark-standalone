@@ -1,0 +1,15 @@
+{
+  "source_csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/jet_hadron_pi_pm_pi0_observables.csv",
+  "normalization": "Each pi+ curve separately integrates to one",
+  "fractions": [
+    0.0,
+    0.05,
+    0.1
+  ],
+  "bins": 40,
+  "pooled_balance_seed": 42,
+  "selection": "Original all-species successful-row pools; extract pi+ after subsampling",
+  "ratios": "Normalized pi+(5%)/pi+(0%) and pi+(10%)/pi+(0%)",
+  "ratio_error": "Original _ratio_series Poisson convention; overlap and normalization covariance ignored",
+  "streaming_successful_rows_only": true
+}

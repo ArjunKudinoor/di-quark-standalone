@@ -1,0 +1,139 @@
+{
+  "source_accepted_events": 9600000,
+  "source_summary": {
+    "altered_channel_C": 6675716,
+    "written_altered": 6675716,
+    "total_processed": 9600000,
+    "fallback_unchanged_no_ud_diquark": 2600945,
+    "written_unchanged": 2924284,
+    "fallback_unchanged_x_too_large": 323339,
+    "mode": "diquark_kick",
+    "surgery_version": "v2",
+    "seed": 42,
+    "delta_px": 0.4,
+    "workers": 4,
+    "elapsed_s": 7270.901635250077,
+    "output_root": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/altered_100k_parquet",
+    "events_per_shard": 10000,
+    "output_subdir": "altered_100k_parquet",
+    "altered_meta_columns": [
+      "event_id",
+      "meta_json",
+      "split_mode",
+      "split_channel",
+      "channel_description",
+      "struck_quark_index",
+      "kick_partner_particle_index",
+      "kick_delta_px_gev",
+      "original_diquark_index",
+      "stripped_quark_index",
+      "created_antiquark_index",
+      "daughter_diquark_index",
+      "color_tag_A",
+      "color_tag_B",
+      "pdg_stripped",
+      "pdg_antiquark",
+      "pdg_daughter_diquark",
+      "kick_theta_rad",
+      "kick_magnitude_gev",
+      "x_struck_used",
+      "alteration_succeeded",
+      "failure_reason"
+    ],
+    "editable_source": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/editable_source_v1"
+  },
+  "altered_events": 6675716,
+  "rows": 13351432,
+  "counts": [
+    {
+      "sample": "altered",
+      "pion": "pi0",
+      "events": 247957
+    },
+    {
+      "sample": "altered",
+      "pion": "piminus",
+      "events": 408034
+    },
+    {
+      "sample": "altered",
+      "pion": "piplus",
+      "events": 68301
+    },
+    {
+      "sample": "unchanged",
+      "pion": "pi0",
+      "events": 733623
+    },
+    {
+      "sample": "unchanged",
+      "pion": "piminus",
+      "events": 696221
+    },
+    {
+      "sample": "unchanged",
+      "pion": "piplus",
+      "events": 691515
+    }
+  ],
+  "reasons": [
+    {
+      "sample": "altered",
+      "reason": "no_pion_candidate",
+      "events": 4410676
+    },
+    {
+      "sample": "altered",
+      "reason": "ok",
+      "events": 724292
+    },
+    {
+      "sample": "altered",
+      "reason": "pythia",
+      "events": 25
+    },
+    {
+      "sample": "altered",
+      "reason": "xQ_window",
+      "events": 3794
+    },
+    {
+      "sample": "altered",
+      "reason": "zLC_range",
+      "events": 1536929
+    },
+    {
+      "sample": "unchanged",
+      "reason": "no_pion_candidate",
+      "events": 1092600
+    },
+    {
+      "sample": "unchanged",
+      "reason": "ok",
+      "events": 2121359
+    },
+    {
+      "sample": "unchanged",
+      "reason": "pythia",
+      "events": 136
+    },
+    {
+      "sample": "unchanged",
+      "reason": "xQ_window",
+      "events": 3794
+    },
+    {
+      "sample": "unchanged",
+      "reason": "zLC_range",
+      "events": 3457827
+    }
+  ],
+  "pion_species": [
+    211,
+    -211,
+    111
+  ],
+  "reinjection_rng": "Original PYTHIA default RNG; original worker shard partition and event order",
+  "workers": 4,
+  "csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/jet_hadron_pi_pm_pi0_observables.csv"
+}

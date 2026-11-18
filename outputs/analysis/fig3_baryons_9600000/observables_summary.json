@@ -1,0 +1,195 @@
+{
+  "source_accepted_events": 9600000,
+  "source_summary": {
+    "altered_channel_C": 6675716,
+    "written_altered": 6675716,
+    "total_processed": 9600000,
+    "fallback_unchanged_no_ud_diquark": 2600945,
+    "written_unchanged": 2924284,
+    "fallback_unchanged_x_too_large": 323339,
+    "mode": "diquark_kick",
+    "surgery_version": "v2",
+    "seed": 42,
+    "delta_px": 0.4,
+    "workers": 4,
+    "elapsed_s": 7270.901635250077,
+    "output_root": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/altered_100k_parquet",
+    "events_per_shard": 10000,
+    "output_subdir": "altered_100k_parquet",
+    "altered_meta_columns": [
+      "event_id",
+      "meta_json",
+      "split_mode",
+      "split_channel",
+      "channel_description",
+      "struck_quark_index",
+      "kick_partner_particle_index",
+      "kick_delta_px_gev",
+      "original_diquark_index",
+      "stripped_quark_index",
+      "created_antiquark_index",
+      "daughter_diquark_index",
+      "color_tag_A",
+      "color_tag_B",
+      "pdg_stripped",
+      "pdg_antiquark",
+      "pdg_daughter_diquark",
+      "kick_theta_rad",
+      "kick_magnitude_gev",
+      "x_struck_used",
+      "alteration_succeeded",
+      "failure_reason"
+    ],
+    "editable_source": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_pi0/merged/editable_source_v1"
+  },
+  "channel_C_event_pairs": 6675716,
+  "rows": 13351432,
+  "physics": {
+    "pythia_e_beam_gev": 5.0,
+    "pythia_p_beam_gev": 41.0,
+    "dis_x_exclusive_floor": 0.05,
+    "dis_q_open_interval_gev": [
+      4.0,
+      5.0
+    ],
+    "baryon_collider_eta_acceptance": [
+      2.0,
+      3.5
+    ],
+    "baryon_breit_hemisphere": "target"
+  },
+  "workers_requested": 4,
+  "workers_effective": 4,
+  "max_events": 0,
+  "baryon_species": {
+    "proton": 2212,
+    "neutron": 2112
+  },
+  "final_state": "Original isFinal() and isHadron(); positive PDG IDs only",
+  "neutron_check": "particleData.mayDecay(2112) must be false; no settings changed",
+  "rng": "Original PYTHIA defaults; contiguous shard batches and sorted event IDs",
+  "arms": [
+    {
+      "sample": "altered",
+      "rows": 1668906,
+      "accepted": {
+        "neutron": 29899,
+        "proton": 43806
+      },
+      "reasons": {
+        "no_baryon_candidate": 1592117,
+        "xQ_window": 894,
+        "ok": 73705,
+        "zLC_range": 2185,
+        "pythia": 5
+      }
+    },
+    {
+      "sample": "altered",
+      "rows": 1668883,
+      "accepted": {
+        "proton": 44026,
+        "neutron": 29962
+      },
+      "reasons": {
+        "no_baryon_candidate": 1591828,
+        "ok": 73988,
+        "zLC_range": 2129,
+        "xQ_window": 931,
+        "pythia": 7
+      }
+    },
+    {
+      "sample": "altered",
+      "rows": 1668546,
+      "accepted": {
+        "proton": 43817,
+        "neutron": 29890
+      },
+      "reasons": {
+        "no_baryon_candidate": 1591650,
+        "ok": 73707,
+        "zLC_range": 2164,
+        "xQ_window": 1020,
+        "pythia": 5
+      }
+    },
+    {
+      "sample": "altered",
+      "rows": 1669381,
+      "accepted": {
+        "proton": 44007,
+        "neutron": 29619
+      },
+      "reasons": {
+        "no_baryon_candidate": 1592526,
+        "ok": 73626,
+        "zLC_range": 2272,
+        "xQ_window": 949,
+        "pythia": 8
+      }
+    },
+    {
+      "sample": "unchanged",
+      "rows": 1668906,
+      "accepted": {
+        "neutron": 121649,
+        "proton": 124400
+      },
+      "reasons": {
+        "no_baryon_candidate": 1302362,
+        "ok": 246049,
+        "zLC_range": 119572,
+        "xQ_window": 894,
+        "pythia": 29
+      }
+    },
+    {
+      "sample": "unchanged",
+      "rows": 1668883,
+      "accepted": {
+        "proton": 124938,
+        "neutron": 121519
+      },
+      "reasons": {
+        "no_baryon_candidate": 1302882,
+        "ok": 246457,
+        "zLC_range": 118581,
+        "xQ_window": 931,
+        "pythia": 32
+      }
+    },
+    {
+      "sample": "unchanged",
+      "rows": 1668546,
+      "accepted": {
+        "neutron": 120872,
+        "proton": 124867
+      },
+      "reasons": {
+        "no_baryon_candidate": 1302792,
+        "ok": 245739,
+        "zLC_range": 118954,
+        "xQ_window": 1020,
+        "pythia": 41
+      }
+    },
+    {
+      "sample": "unchanged",
+      "rows": 1669381,
+      "accepted": {
+        "neutron": 121205,
+        "proton": 124386
+      },
+      "reasons": {
+        "no_baryon_candidate": 1303943,
+        "ok": 245591,
+        "zLC_range": 118864,
+        "xQ_window": 949,
+        "pythia": 34
+      }
+    }
+  ],
+  "csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_baryons/merged/jet_hadron_baryon_observables.csv",
+  "complete": true
+}

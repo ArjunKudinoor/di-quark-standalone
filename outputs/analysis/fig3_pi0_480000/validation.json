@@ -1,0 +1,16 @@
+{
+  "source_accepted_events": 480000,
+  "channel_C_events": 334001,
+  "rows": 668002,
+  "successful_rows": 141761,
+  "neutral_selections": 48761,
+  "all_pairs_matched": true,
+  "one_row_per_event_arm": true,
+  "kinematics_valid": true,
+  "histograms_unit_integral": true,
+  "original_ratio_formula_verified": true,
+  "original_ratio_error_formula_verified": true,
+  "all_configuration_source_hashes_match": true,
+  "figure_style": "Original 6x4.2 inch canvas, 32% lower strip, pad 0.07, original helpers; visually checked all three PDFs",
+  "charged_only_regression": "All 1404 smoke rows equal across all 22 original fields; see smoke validation.json"
+}

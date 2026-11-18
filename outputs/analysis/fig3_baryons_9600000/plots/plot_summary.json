@@ -1,0 +1,32 @@
+{
+  "source_csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_9600000_baryons/merged/jet_hadron_baryon_observables.csv",
+  "rows_input": 13351432,
+  "accepted_rows": 1278862,
+  "bins": 40,
+  "range": [
+    0.0,
+    3.141592653589793
+  ],
+  "normalization": "Unit integral separately for p and n",
+  "reference": "Proton distribution from the same SRC fraction",
+  "ratios": "(N_n_bin/N_n)/(N_p_bin/N_p)",
+  "ratio_error": "Original R*sqrt(1/N_n_bin+1/N_p_bin); empty bins omitted",
+  "limitations": "Original errors omit normalization/source-twin covariance and model/detector effects",
+  "pooled_balance_seed": 42,
+  "src_comparison_figures": {
+    "neutron": "outputs/figures/fig3_baryons_9600000/fig3_neutron_src_comparison.pdf",
+    "proton": "outputs/figures/fig3_baryons_9600000/fig3_proton_src_comparison.pdf"
+  },
+  "src_comparison_reference": "Same species at 0% SRC, normalized to unit integral",
+  "src_comparison_ratios": "D_species(5%)/D_species(0%) and D_species(10%)/D_species(0%)",
+  "src_comparison_empty_bins": "Empty numerator or denominator omitted; CSV ratio/error NaN and valid=False",
+  "src_comparison_uncertainty": "Original Poisson convention; overlapping-pool covariance is not included",
+  "density_ylim": [
+    0.0,
+    3.5
+  ],
+  "ratio_ylim": [
+    0.8,
+    1.6
+  ]
+}

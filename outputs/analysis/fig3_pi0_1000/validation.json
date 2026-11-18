@@ -1,0 +1,13 @@
+{
+  "charged_original_rows": 1404,
+  "exact_common_fields_equal": true,
+  "original_and_extended_column_count": [
+    22,
+    24
+  ],
+  "extended_rows": 1404,
+  "accepted_neutral": 107,
+  "physics_checks_passed": true,
+  "original_source_sha256": "b244959418bfc73d8f4a4b91b3cd3e719f7d7a735b53c2752910ee4259523bce",
+  "original_runner_sha256": "027be551f1e0f0090b357272163ee83d62409ef517e4bd33210ac37a4e253d6e"
+}

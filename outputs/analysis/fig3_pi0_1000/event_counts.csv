@@ -1,0 +1,17 @@
+sample,pion,reason,events
+altered,pi0,ok,30
+altered,pi0,zLC_range,63
+altered,piminus,ok,30
+altered,piminus,zLC_range,75
+altered,piplus,ok,5
+altered,piplus,zLC_range,28
+altered,,no_pion_candidate,470
+altered,,xQ_window,1
+unchanged,pi0,ok,77
+unchanged,pi0,zLC_range,121
+unchanged,piminus,ok,82
+unchanged,piminus,zLC_range,127
+unchanged,piplus,ok,68
+unchanged,piplus,zLC_range,116
+unchanged,,no_pion_candidate,110
+unchanged,,xQ_window,1

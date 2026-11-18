@@ -1,0 +1,253 @@
+Matplotlib is building the font cache; this may take a moment.
+altered×C:   0%|          | 0/1 [00:00<?, ?shard-batch/s]
+ *------------------------------------------------------------------------------------* 
+ |                                                                                    | 
+ |  *------------------------------------------------------------------------------*  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  |   PPP   Y   Y  TTTTT  H   H  III    A      Welcome to the Lund Monte Carlo!  |  | 
+ |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.315      |  | 
+ |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change: 27 May 2025  |  | 
+ |  |   P       Y      T    H   H   I   A   A                                      |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 19 Oct 2026 at 23:59:43    |  | 
+ |  |                                                                              |  | 
+ |  |   Program documentation and an archive of historic versions is found on:     |  | 
+ |  |                                                                              |  | 
+ |  |                               https://pythia.org/                            |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is authored by a collaboration consisting of:                       |  | 
+ |  |                                                                              |  | 
+ |  |   Javira Altmann, Christian Bierlich, Naomi Cooke, Nishita Desai,            |  | 
+ |  |   Ilkka Helenius, Philip Ilten, Leif Lonnblad, Stephen Mrenna,               |  | 
+ |  |   Christian Preuss, Torbjorn Sjostrand, and Peter Skands.                    |  | 
+ |  |                                                                              |  | 
+ |  |   The complete list of authors, including contact information and            |  | 
+ |  |   affiliations, can be found on https://pythia.org/.                         |  | 
+ |  |   Problems or bugs should be reported on email at authors@pythia.org.        |  | 
+ |  |                                                                              |  | 
+ |  |   The main program reference is C. Bierlich et al,                           |  | 
+ |  |   'A comprehensive guide to the physics and usage of Pythia 8.3',            |  | 
+ |  |   SciPost Phys. Codebases 8-r8.3 (2022) [arXiv:2203.11601 [hep-ph]]          |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is released under the GNU General Public Licence version 2          |  | 
+ |  |   or later. Please respect the MCnet Guidelines for Generator Authors        |  | 
+ |  |   and Users.                                                                 |  | 
+ |  |                                                                              |  | 
+ |  |   Disclaimer: this program comes without any guarantees.                     |  | 
+ |  |   Beware of errors and use common sense when interpreting results.           |  | 
+ |  |                                                                              |  | 
+ |  |   Copyright (C) 2025 Torbjorn Sjostrand                                      |  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  *------------------------------------------------------------------------------*  | 
+ |                                                                                    | 
+ *------------------------------------------------------------------------------------* 
+
+altered×C: 100%|██████████| 1/1 [00:00<00:00,  1.05shard-batch/s]altered×C: 100%|██████████| 1/1 [00:00<00:00,  1.05shard-batch/s]
+unchanged (editable)×par:   0%|          | 0/1 [00:00<?, ?shard-batch/s]
+ *------------------------------------------------------------------------------------* 
+ |                                                                                    | 
+ |  *------------------------------------------------------------------------------*  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  |   PPP   Y   Y  TTTTT  H   H  III    A      Welcome to the Lund Monte Carlo!  |  | 
+ |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.315      |  | 
+ |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change: 27 May 2025  |  | 
+ |  |   P       Y      T    H   H   I   A   A                                      |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 19 Oct 2026 at 23:59:44    |  | 
+ |  |                                                                              |  | 
+ |  |   Program documentation and an archive of historic versions is found on:     |  | 
+ |  |                                                                              |  | 
+ |  |                               https://pythia.org/                            |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is authored by a collaboration consisting of:                       |  | 
+ |  |                                                                              |  | 
+ |  |   Javira Altmann, Christian Bierlich, Naomi Cooke, Nishita Desai,            |  | 
+ |  |   Ilkka Helenius, Philip Ilten, Leif Lonnblad, Stephen Mrenna,               |  | 
+ |  |   Christian Preuss, Torbjorn Sjostrand, and Peter Skands.                    |  | 
+ |  |                                                                              |  | 
+ |  |   The complete list of authors, including contact information and            |  | 
+ |  |   affiliations, can be found on https://pythia.org/.                         |  | 
+ |  |   Problems or bugs should be reported on email at authors@pythia.org.        |  | 
+ |  |                                                                              |  | 
+ |  |   The main program reference is C. Bierlich et al,                           |  | 
+ |  |   'A comprehensive guide to the physics and usage of Pythia 8.3',            |  | 
+ |  |   SciPost Phys. Codebases 8-r8.3 (2022) [arXiv:2203.11601 [hep-ph]]          |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is released under the GNU General Public Licence version 2          |  | 
+ |  |   or later. Please respect the MCnet Guidelines for Generator Authors        |  | 
+ |  |   and Users.                                                                 |  | 
+ |  |                                                                              |  | 
+ |  |   Disclaimer: this program comes without any guarantees.                     |  | 
+ |  |   Beware of errors and use common sense when interpreting results.           |  | 
+ |  |                                                                              |  | 
+ |  |   Copyright (C) 2025 Torbjorn Sjostrand                                      |  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  *------------------------------------------------------------------------------*  | 
+ |                                                                                    | 
+ *------------------------------------------------------------------------------------* 
+
+unchanged (editable)×par: 100%|██████████| 1/1 [00:00<00:00,  1.06shard-batch/s]unchanged (editable)×par: 100%|██████████| 1/1 [00:00<00:00,  1.06shard-batch/s]
+{
+  "altered_root": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000/merged/altered_100k_parquet",
+  "split_channel": "C",
+  "n_rows_written": 1404,
+  "n_altered_events": 702,
+  "n_ok": 196,
+  "editable_parent": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000_pi0/merged",
+  "out_csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000_pi0/merged/charged_only_original_validation.csv",
+  "kinematics_preset": "e5_ep41_x005_q2to4",
+  "pythia_e_beam_gev": 5.0,
+  "pythia_p_beam_gev": 41.0,
+  "dis_x_exclusive_floor": 0.05,
+  "dis_Q_open_gev": [
+    4.0,
+    5.0
+  ],
+  "workers_requested": 2,
+  "workers_effective_parallel": true,
+  "shard_worker_processes_altered": 1,
+  "shard_worker_processes_editable": 1,
+  "pion_collider_eta_acceptance": [
+    2.0,
+    3.5
+  ],
+  "reinject_parton_isr": true,
+  "reinject_parton_fsr": true
+}
+altered×C:   0%|          | 0/1 [00:00<?, ?shard-batch/s]
+ *------------------------------------------------------------------------------------* 
+ |                                                                                    | 
+ |  *------------------------------------------------------------------------------*  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  |   PPP   Y   Y  TTTTT  H   H  III    A      Welcome to the Lund Monte Carlo!  |  | 
+ |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.315      |  | 
+ |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change: 27 May 2025  |  | 
+ |  |   P       Y      T    H   H   I   A   A                                      |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 19 Oct 2026 at 23:59:45    |  | 
+ |  |                                                                              |  | 
+ |  |   Program documentation and an archive of historic versions is found on:     |  | 
+ |  |                                                                              |  | 
+ |  |                               https://pythia.org/                            |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is authored by a collaboration consisting of:                       |  | 
+ |  |                                                                              |  | 
+ |  |   Javira Altmann, Christian Bierlich, Naomi Cooke, Nishita Desai,            |  | 
+ |  |   Ilkka Helenius, Philip Ilten, Leif Lonnblad, Stephen Mrenna,               |  | 
+ |  |   Christian Preuss, Torbjorn Sjostrand, and Peter Skands.                    |  | 
+ |  |                                                                              |  | 
+ |  |   The complete list of authors, including contact information and            |  | 
+ |  |   affiliations, can be found on https://pythia.org/.                         |  | 
+ |  |   Problems or bugs should be reported on email at authors@pythia.org.        |  | 
+ |  |                                                                              |  | 
+ |  |   The main program reference is C. Bierlich et al,                           |  | 
+ |  |   'A comprehensive guide to the physics and usage of Pythia 8.3',            |  | 
+ |  |   SciPost Phys. Codebases 8-r8.3 (2022) [arXiv:2203.11601 [hep-ph]]          |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is released under the GNU General Public Licence version 2          |  | 
+ |  |   or later. Please respect the MCnet Guidelines for Generator Authors        |  | 
+ |  |   and Users.                                                                 |  | 
+ |  |                                                                              |  | 
+ |  |   Disclaimer: this program comes without any guarantees.                     |  | 
+ |  |   Beware of errors and use common sense when interpreting results.           |  | 
+ |  |                                                                              |  | 
+ |  |   Copyright (C) 2025 Torbjorn Sjostrand                                      |  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  *------------------------------------------------------------------------------*  | 
+ |                                                                                    | 
+ *------------------------------------------------------------------------------------* 
+
+altered×C: 100%|██████████| 1/1 [00:00<00:00,  1.06shard-batch/s]altered×C: 100%|██████████| 1/1 [00:00<00:00,  1.06shard-batch/s]
+unchanged (editable)×par:   0%|          | 0/1 [00:00<?, ?shard-batch/s]
+ *------------------------------------------------------------------------------------* 
+ |                                                                                    | 
+ |  *------------------------------------------------------------------------------*  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  |   PPP   Y   Y  TTTTT  H   H  III    A      Welcome to the Lund Monte Carlo!  |  | 
+ |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.315      |  | 
+ |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change: 27 May 2025  |  | 
+ |  |   P       Y      T    H   H   I   A   A                                      |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 19 Oct 2026 at 23:59:46    |  | 
+ |  |                                                                              |  | 
+ |  |   Program documentation and an archive of historic versions is found on:     |  | 
+ |  |                                                                              |  | 
+ |  |                               https://pythia.org/                            |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is authored by a collaboration consisting of:                       |  | 
+ |  |                                                                              |  | 
+ |  |   Javira Altmann, Christian Bierlich, Naomi Cooke, Nishita Desai,            |  | 
+ |  |   Ilkka Helenius, Philip Ilten, Leif Lonnblad, Stephen Mrenna,               |  | 
+ |  |   Christian Preuss, Torbjorn Sjostrand, and Peter Skands.                    |  | 
+ |  |                                                                              |  | 
+ |  |   The complete list of authors, including contact information and            |  | 
+ |  |   affiliations, can be found on https://pythia.org/.                         |  | 
+ |  |   Problems or bugs should be reported on email at authors@pythia.org.        |  | 
+ |  |                                                                              |  | 
+ |  |   The main program reference is C. Bierlich et al,                           |  | 
+ |  |   'A comprehensive guide to the physics and usage of Pythia 8.3',            |  | 
+ |  |   SciPost Phys. Codebases 8-r8.3 (2022) [arXiv:2203.11601 [hep-ph]]          |  | 
+ |  |                                                                              |  | 
+ |  |   PYTHIA is released under the GNU General Public Licence version 2          |  | 
+ |  |   or later. Please respect the MCnet Guidelines for Generator Authors        |  | 
+ |  |   and Users.                                                                 |  | 
+ |  |                                                                              |  | 
+ |  |   Disclaimer: this program comes without any guarantees.                     |  | 
+ |  |   Beware of errors and use common sense when interpreting results.           |  | 
+ |  |                                                                              |  | 
+ |  |   Copyright (C) 2025 Torbjorn Sjostrand                                      |  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  *------------------------------------------------------------------------------*  | 
+ |                                                                                    | 
+ *------------------------------------------------------------------------------------* 
+
+unchanged (editable)×par: 100%|██████████| 1/1 [00:00<00:00,  1.04shard-batch/s]unchanged (editable)×par: 100%|██████████| 1/1 [00:00<00:00,  1.04shard-batch/s]
+{
+  "altered_root": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000/merged/altered_100k_parquet",
+  "split_channel": "C",
+  "n_rows_written": 1404,
+  "n_altered_events": 702,
+  "n_ok": 196,
+  "editable_parent": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000_pi0/merged",
+  "out_csv": "/Users/arjunkudinoor/Data/dis_q_bins_e5_ep41_standalone/Q2_16_25__Q_4_5_1000_pi0/merged/charged_only_pi0_validation.csv",
+  "kinematics_preset": "e5_ep41_x005_q2to4",
+  "pythia_e_beam_gev": 5.0,
+  "pythia_p_beam_gev": 41.0,
+  "dis_x_exclusive_floor": 0.05,
+  "dis_Q_open_gev": [
+    4.0,
+    5.0
+  ],
+  "workers_requested": 2,
+  "workers_effective_parallel": true,
+  "shard_worker_processes_altered": 1,
+  "shard_worker_processes_editable": 1,
+  "pion_collider_eta_acceptance": [
+    2.0,
+    3.5
+  ],
+  "reinject_parton_isr": true,
+  "reinject_parton_fsr": true
+}
+Using 196 ok rows for plotting.
+Compare pooled subsample f=0.0000: altered=0 unchanged=161 (achieved 0.0000)
+Compare pooled subsample f=0.0500: altered=8 unchanged=161 (achieved 0.0473)
+Compare pooled subsample f=0.1000: altered=18 unchanged=161 (achieved 0.1006)
+Wrote outputs/figures/fig3_pi0_1000/charged_control/jet_hadron_transverse_angle_target_leading_pion_Breit_combined_pi_pm_charged_validation.pdf
+{
+  "charged_original_rows": 1404,
+  "exact_common_fields_equal": true,
+  "original_and_extended_column_count": [
+    22,
+    24
+  ],
+  "extended_rows": 1404,
+  "accepted_neutral": 107,
+  "physics_checks_passed": true,
+  "original_source_sha256": "b244959418bfc73d8f4a4b91b3cd3e719f7d7a735b53c2752910ee4259523bce",
+  "original_runner_sha256": "027be551f1e0f0090b357272163ee83d62409ef517e4bd33210ac37a4e253d6e"
+}

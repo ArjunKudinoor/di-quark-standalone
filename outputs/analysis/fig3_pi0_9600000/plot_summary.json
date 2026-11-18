@@ -1,0 +1,19 @@
+{
+  "rows_input": 13351432,
+  "source_event_pairs": 6675716,
+  "successful_rows": 2845651,
+  "bins": 40,
+  "range": [
+    0.0,
+    3.141592653589793
+  ],
+  "normalization": "Each species separately integrates to one",
+  "reference": "Shared unchanged pi+ exactly as original Fig.3",
+  "ratios": "(N_h_bin/N_h)/(N_plus_bin/N_plus)",
+  "ratio_error": "R * sqrt(1/N_h_bin + 1/N_plus_bin); original _ratio_series function",
+  "empty_ratio_bins": "Omitted, exactly as original",
+  "upper_panel": "Original step curves without statistical bands",
+  "tail": "phi_hJ > 3*pi/4; binomial errors for exploratory summary only",
+  "pooled_balance_seed": 42,
+  "limitations": "Original ratio errors ignore normalization and source-twin covariance; no model or detector uncertainty"
+}

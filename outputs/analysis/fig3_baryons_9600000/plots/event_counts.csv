@@ -1,0 +1,11 @@
+sample,reason,events
+altered,no_baryon_candidate,6368121
+altered,ok,295026
+altered,pythia,25
+altered,xQ_window,3794
+altered,zLC_range,8750
+unchanged,no_baryon_candidate,5211979
+unchanged,ok,983836
+unchanged,pythia,136
+unchanged,xQ_window,3794
+unchanged,zLC_range,475971
